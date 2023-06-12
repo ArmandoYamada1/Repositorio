@@ -1,2 +1,2 @@
 # Repositorio
- primeiro repositorio versionado
+ primeiro repositório versionado de GIT e GITHUB
